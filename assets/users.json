@@ -1,0 +1,64 @@
+{
+   "users": [
+      {
+         "id": "1",
+         "name": "Wallace",
+         "email": "wallace@wallace.com",
+         "role": "god",
+         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IldhbGxhY2UiLCJpYXQiOjE1MTYyMzkwMjJ9.ohruWzBLhZZxZASVti66cKZB36Y9ZjKb1-N4OmksOgQ",
+         "address": {
+            "street": "paved with gold",
+            "district": "heavens",
+            "zip_code": "00000-000"
+         }
+      },
+      {
+         "id": "2",
+         "name": "George Michael",
+         "email": "careless@george.com",
+         "role": "dead",
+         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IldhbGxhY2UiLCJpYXQiOjE1MTYyMzkwMjJ9.ohruWzBLhZZxZASVti66cKZB36Y9ZjKb1-N4OmksOgQ",
+         "address": {
+            "street": "pet",
+            "district": "cemetery",
+            "zip_code": "57825-648"
+         }
+      },
+      {
+         "id": "3",
+         "name": "Ring Starr",
+         "email": "awesome@drums.com",
+         "role": "society role model",
+         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlJpbmdvIFN0YXJyIiwiaWF0IjoxNTE2MjM5MDIyfQ.iJCINuKJ8OzHQpoqM6idi9qcDLW41fqQ8ls58Jw9fg4",
+         "address": {
+            "street": "some street in london",
+            "district": "i dont know any london districts",
+            "zip_code": "75485-854"
+         }
+      },
+      {
+         "id": "4",
+         "name": "Tigor the Tigre",
+         "email": "tigor@streetwear.com",
+         "role": "demi-god",
+         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IlJpbmdvIFN0YXJyIiwiaWF0IjoxNTE2MjM5MDIyfQ.iJCINuKJ8OzHQpoqM6idi9qcDLW41fqQ8ls58Jw9fg4",
+         "address": {
+            "street": "loja",
+            "district": "loja",
+            "zip_code": "85479-958"
+         }
+      },
+      {
+         "id": "5",
+         "name": "João Misterioso",
+         "email": "unknown@unkown.unknown",
+         "role": "Kha'Zix",
+         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6Ikpvw6NvIE1pc3Rlcmlvc28iLCJpYXQiOjE1MTYyMzkwMjJ9.CQCn-DzL9NYrwJw2VpyhCfqlqEA4o2JmStPeE65XhW4",
+         "address": {
+            "street": "dirty path",
+            "district": "under a rock",
+            "zip_code": "66666-666"
+         }
+      }
+   ]
+}
